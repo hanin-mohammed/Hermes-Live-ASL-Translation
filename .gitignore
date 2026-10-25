@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.DS_Store
+.zed/
+.vscode/
+
+# Generated and working files
+tmp/
+output/
+HERMES_code_showcase.html
+HERMES_code_showcase.pdf
+
+# Private school preparation material
+Viva Prep/
+HERMES_HANDOVER_PLAN.md
+build_hermes_draft_report.py
+
+# Local camera experiments
+tests/
+untitled
